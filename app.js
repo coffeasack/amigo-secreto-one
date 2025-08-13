@@ -4,7 +4,6 @@ function adicionarAmigo() {
     let nome = document.getElementById("amigo").value;
     if (nome != "") {
         novoAmigoDoCoffeasack.push(nome);
-        alert("Amigo adicionado.");
         limparLinha();
         } else {
         alert("Parece que faltou um nome.");
