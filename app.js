@@ -31,7 +31,6 @@ function sortearAmigo() {
         alert("Não há amigos para sortear");
     } else {
         let amigoSorteado = novoAmigoDoCoffeasack[Math.floor(novoAmigoDoCoffeasack.length * Math.random())];
-        alert(`Seu amigo sorteado foi: ${amigoSorteado}`);
         document.getElementById("resultado").innerHTML = `<p>Seu amigo sorteado foi: ${amigoSorteado}</p>`
     }
 };
