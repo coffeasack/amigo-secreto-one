@@ -1,4 +1,5 @@
 ## Amigo Secreto One
+![Exemplo de uso](Funcionalidade.gif)
 - Digite os nomes dos seus amigos.
 - Adicione-os pressionando o botão "Adicionar".
 - Sorteie-os clicando em "Sortear Amigo"
